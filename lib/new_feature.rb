@@ -10,6 +10,10 @@ module playground
       3.times { do_something_awesome }
     end
     
+    def to_s
+      even_more_awesome
+    end
+    
   end
   
 end
